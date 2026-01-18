@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755125
+  date: 2026-01-18T16:52:05.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:52:05.989+00:00
+createdBy: editor
+enabled: true
+name: water.gif
+path: textures/tiles/hex/water.gif
+publicData:
+  category: textures
+  extension: .gif
+  mimeType: image/gif
+size: 2965
+storageId: 7945febe-4a11-4619-b480-9bcaa9369eef
+worldId: '@shared:p'

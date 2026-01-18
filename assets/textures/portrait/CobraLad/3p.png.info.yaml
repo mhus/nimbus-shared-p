@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768754666
+  date: 2026-01-18T16:44:26.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:44:26.098+00:00
+createdBy: editor
+enabled: true
+name: 3p.png
+path: textures/portrait/CobraLad/3p.png
+publicData:
+  category: textures
+  extension: .png
+  mimeType: image/png
+size: 1057
+storageId: 6325facf-72b0-4f94-8068-20502f4a02a5
+worldId: '@shared:p'

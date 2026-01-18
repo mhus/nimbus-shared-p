@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755132
+  date: 2026-01-18T16:52:12.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:52:12.191+00:00
+createdBy: editor
+enabled: true
+name: wheat.gif
+path: textures/tiles/hex/wheat.gif
+publicData:
+  category: textures
+  extension: .gif
+  mimeType: image/gif
+size: 3565
+storageId: dc8f3405-4a0f-4686-b34d-ea88c2507b6b
+worldId: '@shared:p'

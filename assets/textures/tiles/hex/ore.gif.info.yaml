@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755099
+  date: 2026-01-18T16:51:39.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:51:39.681+00:00
+createdBy: editor
+enabled: true
+name: ore.gif
+path: textures/tiles/hex/ore.gif
+publicData:
+  category: textures
+  extension: .gif
+  mimeType: image/gif
+size: 3746
+storageId: 54304c3c-a486-4db4-8a38-d8e17f185e45
+worldId: '@shared:p'

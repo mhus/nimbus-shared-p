@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768754666
+  date: 2026-01-18T16:44:26.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:44:26.240+00:00
+createdBy: editor
+enabled: true
+name: 13p.png
+path: textures/portrait/CobraLad/13p.png
+publicData:
+  category: textures
+  extension: .png
+  mimeType: image/png
+size: 1190
+storageId: 5a77615c-96fc-40ca-abcd-2ce120278e7d
+worldId: '@shared:p'

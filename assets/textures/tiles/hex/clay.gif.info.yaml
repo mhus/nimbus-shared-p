@@ -1,0 +1,24 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755086
+  date: 2026-01-18T16:51:26.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:51:26.150+00:00
+createdBy: editor
+enabled: true
+name: clay.gif
+path: textures/tiles/hex/clay.gif
+publicData:
+  author: qubodup
+  category: textures
+  color: "null"
+  description: x
+  extension: .gif
+  license: CC-BY-SA 3.0
+  licenseFixed: true
+  mimeType: image/gif
+  source: https://opengameart.org/content/pastel-resources-hex-tiles-55x64-and-64x55
+size: 3689
+storageId: cf8a42ba-ad69-4946-b74f-db0bd2cecca7
+worldId: '@shared:p'

@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755118
+  date: 2026-01-18T16:51:58.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:51:58.752+00:00
+createdBy: editor
+enabled: true
+name: grass.gif
+path: textures/tiles/hex/grass.gif
+publicData:
+  category: textures
+  extension: .gif
+  mimeType: image/gif
+size: 3362
+storageId: 04196960-39eb-430e-bd43-f72bf9b11957
+worldId: '@shared:p'

@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768755093
+  date: 2026-01-18T16:51:33.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:51:33.606+00:00
+createdBy: editor
+enabled: true
+name: desert.gif
+path: textures/tiles/hex/desert.gif
+publicData:
+  category: textures
+  extension: .gif
+  mimeType: image/gif
+size: 2374
+storageId: 2ed81b0f-a829-43fa-83de-b2a3ca31a7d6
+worldId: '@shared:p'

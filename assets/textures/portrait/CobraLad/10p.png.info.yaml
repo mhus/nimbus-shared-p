@@ -1,0 +1,24 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768754666
+  date: 2026-01-18T16:44:26.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-18T16:44:26.202+00:00
+createdBy: editor
+enabled: true
+name: 10p.png
+path: textures/portrait/CobraLad/10p.png
+publicData:
+  author: CobraLad
+  category: textures
+  color: "null"
+  description: x
+  extension: .png
+  license: CC-BY 3.0
+  licenseFixed: true
+  mimeType: image/png
+  source: https://opengameart.org/content/32x32-fantasy-portrait-set
+size: 1064
+storageId: f67bace2-cbd9-45b9-932b-f12425fbf157
+worldId: '@shared:p'
